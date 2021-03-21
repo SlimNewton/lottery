@@ -1,0 +1,16 @@
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\bin\Debug\netcoreapp3.1\LotteryProgram.exe
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\bin\Debug\netcoreapp3.1\LotteryProgram.deps.json
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\bin\Debug\netcoreapp3.1\LotteryProgram.runtimeconfig.json
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\bin\Debug\netcoreapp3.1\LotteryProgram.runtimeconfig.dev.json
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\bin\Debug\netcoreapp3.1\LotteryProgram.dll
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\bin\Debug\netcoreapp3.1\LotteryProgram.pdb
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\obj\Debug\netcoreapp3.1\LotteryProgram.Form1.resources
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\obj\Debug\netcoreapp3.1\LotteryProgram.csproj.GenerateResource.cache
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\obj\Debug\netcoreapp3.1\LotteryProgram.AssemblyInfoInputs.cache
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\obj\Debug\netcoreapp3.1\LotteryProgram.AssemblyInfo.cs
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\obj\Debug\netcoreapp3.1\LotteryProgram.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\obj\Debug\netcoreapp3.1\LotteryProgram.dll
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\obj\Debug\netcoreapp3.1\LotteryProgram.pdb
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\obj\Debug\netcoreapp3.1\LotteryProgram.genruntimeconfig.cache
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\obj\Debug\netcoreapp3.1\LotteryProgram.Form2.resources
+C:\Users\LEGION\Documents\Visual Studio 2019\Projects\LotteryProgram\LotteryProgram\obj\Debug\netcoreapp3.1\LotteryProgram.csprojAssemblyReference.cache
